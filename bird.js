@@ -15,7 +15,7 @@ class Bird {
     // position and size of bird
     this.x = 64;
     this.y = height / 2;
-    this.r = 120;
+    this.r = 25;
 
     // Gravity, lift, velocity.
     this.gravity = 0.8;
